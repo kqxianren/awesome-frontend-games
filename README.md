@@ -132,7 +132,7 @@ There are several curated gamedev threads offering tutorials, inspiration, and t
 
 These platforms aggregate thousands of HTML5 or WebGL-based games. Many are low-effort, but some gems emerge:
 
-- [https://iogames.space/]https://iogames.space/
-- [https://xfreegames.com/]https://xfreegames.com/  
-- [https://www.crazygames.com/c/io]https://www.crazygames.com/c/io  
-- [http://html5games.com/]http://html5games.com/
+- [https://iogames.space/](https://iogames.space/)
+- [https://xfreegames.com/](https://xfreegames.com/)
+- [https://www.crazygames.com/c/io](https://www.crazygames.com/c/io)
+- [http://html5games.com/](http://html5games.com/)
